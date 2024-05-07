@@ -5,9 +5,9 @@
 
 <!-- - 🔭 I’m currently working on [Drone Short](https://github.com/pratiksrivastava01/Drone) -->
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Postgresql**
 
-- 👯 I’m looking to collaborate on **React Projects**
+- 👯 I’m looking to collaborate on **MERN Projects**
 
 - 📫 How to reach me **pranavsingh0523@gmail.com**
 
