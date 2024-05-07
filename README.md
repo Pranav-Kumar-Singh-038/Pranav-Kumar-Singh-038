@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **pranavsingh0523@gmail.com**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pranav-Kumar-Singh-038&label=Profile%20views&color=0e75b6&style=flat" alt="Pranav-Kumar-Singh-038" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/pratik_srivasta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratik_srivasta" height="30" width="40" /></a> -->
