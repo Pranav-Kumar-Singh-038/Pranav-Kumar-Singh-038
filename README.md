@@ -1,42 +1,41 @@
-<h1 align="center">Hi ✌️, I'm Pranav Kumar Singh</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+# Pranav Kumar Singh
 
-<!--<p align="left"> <a href="https://twitter.com/pratik_srivasta" target="blank"><img src="https://img.shields.io/twitter/follow/pratik_srivasta?logo=twitter&style=for-the-badge" alt="pratik_srivasta" /></a> </p> -->
+**Backend-leaning full-stack engineer.** I build web and Android apps end to end —
+TypeScript, Node.js, PostgreSQL, Docker, Linux.
 
-<!-- - 🔭 I’m currently working on [Drone Short](https://github.com/pratiksrivastava01/Drone) -->
+Currently an SDE intern at Maya Data Privacy (remote).
+Joining GlobalLogic (Hitachi) in Bengaluru, February 2027.
 
-- 🌱 I’m currently learning **Servers And Hosting**
+## Building right now
 
-- 👯 I’m looking to collaborate on **Refined Projects**
+### [Gainz](https://github.com/Pranav-Kumar-Singh-038/Gainz) — [live demo](https://gainz-azure.vercel.app)
 
-- 📫 How to reach me **pranavsingh0523@gmail.com**
+Workout tracker. React 19 + Vite on the front, Express 5 + Prisma + PostgreSQL on the
+back. Browse an 800+ exercise catalog, build workouts, log sets and reps.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pranav-Kumar-Singh-038&label=Profile%20views&color=0e75b6&style=flat" alt="Pranav-Kumar-Singh-038" /> </p>
+### [Morning Gate](https://github.com/Pranav-Kumar-Singh-038/Morninggate)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://twitter.com/pratik_srivasta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratik_srivasta" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/pranav-kumar-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav kumar singh" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/pratik_srivastava__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratik_srivastava_" height="30" width="40" /></a> -->
-<a href="https://codeforces.com/profile/Sleepy_Sage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pranav kumar singh" height="30" width="40" /></a>
-<a href="https://leetcode.com/Pranav-Kumar-Singh-038/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranav singh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/pranavsingh0523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pranav kumar singh" height="30" width="40" /></a>
-</p>
+Android wake-up alarm that puts the phone under lockdown until every morning task is
+verified — step counts, NFC taps, QR scans, dwell timers. Kotlin, accessibility service,
+`AlarmManager`, usage stats.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dxwlsrgwj/image/upload/v1726655075/aws_logo_smile_1200x630_tjvo2a.png" alt="c" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dxwlsrgwj/image/upload/v1726655075/nextjs_n0qhhj.jpg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dxwlsrgwj/image/upload/v1726655075/Postgresql_elephant.svg_odloqw.png" alt="c" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dxwlsrgwj/image/upload/v1726655074/Typescript_tbsmke.webp" alt="c" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dxwlsrgwj/image/upload/v1726655074/prisma_zauay5.png" alt="c" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dxwlsrgwj/image/upload/v1726655074/Docker_r38fpc.png" alt="c" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dxwlsrgwj/image/upload/v1726655074/hono_gxq26w.jpg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dxwlsrgwj/image/upload/v1726655074/redis_p6spjm.png" alt="c" width="40" height="40"/> </a>
- </p>
+### [Focus Lock](https://github.com/Pranav-Kumar-Singh-038/focuslock)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranav-Kumar-Singh-038&show_icons=true&locale=en&layout=compact" alt="Pranav-Kumar-Singh-038" /></p>
+Nightly calls-only lockdown for Android. A black overlay takes over between 11 PM and
+6 AM, only the dialer survives, and it releases itself at 6. Kotlin, overlay windows,
+gate-only accessibility switching.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pranav-Kumar-Singh-038&show_icons=true&locale=en" alt="Pranav-Kumar-Singh-038" /></p>
+## Also worth a look
 
-<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-Kumar-Singh-038&" alt="Pranav-Kumar-Singh-038" /></p>
+- **[Data-Structures-And-Algorithms](https://github.com/Pranav-Kumar-Singh-038/Data-Structures-And-Algorithms)** — steady C++ problem-solving practice
+- **[reconciler-for-react](https://github.com/Pranav-Kumar-Singh-038/reconciler-for-react)** — a simplified React reconciler, written to understand how React actually renders
+- **[scripts-linux](https://github.com/Pranav-Kumar-Singh-038/scripts-linux)** — the Bash tooling I actually use day to day
+
+## Toolbox
+
+`TypeScript` `JavaScript` `Node.js` `Express` `React` `Next.js` `Tailwind` `PostgreSQL`
+`MongoDB` `Redis` `Docker` `Nginx` `GitHub Actions` `Bash` `Linux` `Kotlin` `C++` `Python`
+
+## Reach me
+
+[Email](mailto:acadpranav021@gmail.com) · [LinkedIn](https://linkedin.com/in/pranav-kumar-singh) · [LeetCode](https://leetcode.com/Pranav-Kumar-Singh-038/) · [Codeforces](https://codeforces.com/profile/Sleepy_Sage)
