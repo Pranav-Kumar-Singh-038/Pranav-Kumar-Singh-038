@@ -8,11 +8,6 @@ Joining GlobalLogic (Hitachi) in Bengaluru, February 2027.
 
 ## Building right now
 
-### [Gainz](https://github.com/Pranav-Kumar-Singh-038/Gainz) — [live demo](https://gainz-azure.vercel.app)
-
-Workout tracker. React 19 + Vite on the front, Express 5 + Prisma + PostgreSQL on the
-back. Browse an 800+ exercise catalog, build workouts, log sets and reps.
-
 ### [Morning Gate](https://github.com/Pranav-Kumar-Singh-038/Morninggate)
 
 Android wake-up alarm that puts the phone under lockdown until every morning task is
